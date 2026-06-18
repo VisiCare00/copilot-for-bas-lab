@@ -86,8 +86,9 @@
 - Open `spec/_templates/` in preview. Open each template: `user-story.md`, `decision.md`, `persona.md`. *"This is your blank page library."*
 - Open `spec/01-overview.md` and `spec/02-personas.md` for reference — *"This is what good looks like."*
 
-### 2.2 Activity: write your own Overview (10 min)
-- Each attendee opens `spec/01-overview.md` in **edit mode** in github.dev.
+## Step 2 · Activity: write your own Overview (10 min)
+
+- Each attendee opens `spec/01-overview.md` in **edit mode** in their editor (github.dev or VS Code Desktop).
 - They replace the example with the requirement from their Issue (the one they pasted in 1.3).
 - *No Copilot yet — pure typing. We want them to feel that "edit a Markdown file" is just typing.*
 
@@ -139,8 +140,12 @@ Show the cheat-sheet on screen:
 | Merge | Publish |
 
 ### 4.2 Demo: edit on a draft copy → review → publish (5 min)
-- On your fork, edit a story in github.dev → *"Commit & push"* → it offers to create a Pull Request.
-- Use plain English in the PR title. Self-approve and merge. *"Now it's published."*
+- On your fork, edit a story in your editor → **Commit & Push**.
+  - **github.dev path:** the editor offers a "Create Pull Request" button — click it.
+  - **VS Code Desktop path:** open your fork on github.com → click the *"Compare & pull request"* banner.
+- Use plain English in the PR title. Open the PR on github.com → **Files changed** → **Rendered** view to show the "Confluence track-changes" experience. Self-approve and merge. *"Now it's published."*
+
+> 💡 Call out the dual-path explicitly: *"If you're on VS Code Desktop, you'll hop to github.com to create the PR — same outcome, one extra browser tab. See VSCODE-NOTES.md."*
 
 ### 4.3 Activity: their turn (6 min)
 - Each attendee makes a small edit (one sentence) in their fork → *Commit & push* → opens a PR → merges.

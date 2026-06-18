@@ -23,7 +23,7 @@ If still failing in github.dev: click your profile picture (top-right) → **Sig
 **Fix:**
 - github.dev has limited Copilot support. Two options:
   - **Codespaces:** click the green **Code** button → **Codespaces** → **Create codespace on main**. Full Copilot support.
-  - **Local VS Code:** click **Code** → **Open with VS Code Desktop**. Sign in if prompted.
+  - **VS Code Desktop:** click **Code** → **Open with VS Code Desktop**, or `Ctrl+Shift+P` → **Git: Clone** → paste URL. Sign in if prompted. See [lab/VSCODE-NOTES.md](./lab/VSCODE-NOTES.md) for the 4 places desktop differs from github.dev.
 
 ## 4. "I clicked Commit and it asked me about a branch"
 

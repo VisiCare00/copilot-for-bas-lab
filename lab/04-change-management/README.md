@@ -18,7 +18,7 @@ If anyone says "branch" or "merge", just nod and translate it in your head.
 
 ## Step 1 · Make a small edit on a draft copy (5 min)
 
-1. In github.dev, open the user story you created in section 3.
+1. In your editor (github.dev or VS Code Desktop), open the user story you created in section 3.
 2. Add one sentence to the Context — anything. e.g. *"This story addresses the gap raised in last week's BA review."*
 3. Save (`Ctrl+S`).
 4. Click the **Source Control** icon in the left sidebar (it looks like a Y / branch glyph).
@@ -29,12 +29,19 @@ If anyone says "branch" or "merge", just nod and translate it in your head.
 
 ## Step 2 · Open the page review (5 min)
 
-After the commit, github.dev offers a button: **Create Pull Request**. Click it.
+**If you're using github.dev:** after the commit, github.dev offers a button: **Create Pull Request**. Click it.
+
+**If you're using VS Code Desktop:** there's no PR button in the editor by default. Open your fork on **github.com** in a browser — you'll see a yellow banner *"Your branch had recent pushes — Compare & pull request"*. Click it.
+*(For a slicker desktop experience next time, install the **GitHub Pull Requests** extension — see [VSCODE-NOTES.md](../VSCODE-NOTES.md#3--creating-the-pull-request-after-a-commit-section-4-️-the-main-difference).)*
+
+Whichever path you took, you're now on the PR page:
 
 1. **Title:** something plain-English, e.g. `Add patient-history user story`.
 2. **Description:** one or two sentences. *"Adds US-XXX. Context refined with Copilot."*
 3. Click **Create**.
-4. You'll see the PR page. Note the **Files changed** tab — click it, then look for the **Rich diff / Rendered** toggle. Switch to **Rendered**. The page now looks like Confluence track-changes.
+4. **Open the PR on github.com** (in a browser tab) so you can see the rendered view. Click **Files changed** at the top, then look for the **Source ↔ Rendered** toggle (top-right of the file) and pick **Rendered**. The page now looks like Confluence track-changes.
+
+> 💡 The Rendered toggle only exists on github.com — not inside VS Code Desktop or the GitHub PR extension. Always hop to the browser for review-by-eye.
 
 ## Step 3 · Publish (3 min)
 

@@ -45,6 +45,7 @@ You'll keep your fork. You can take it back to your team and start the trial Mon
 ## How this lab works
 
 - **You drive your own keyboard.** The facilitator demos each step, then you do it. Don't watch — *do*.
+- **github.dev or VS Code Desktop — both work.** Instructions are written for github.dev (zero install). If you're on VS Code Desktop, check [lab/VSCODE-NOTES.md](./lab/VSCODE-NOTES.md) for the four small differences (clone step, sign-in, PR creation, Rendered diff view).
 - **Each section ends with a checkpoint.** React with 👍 in the meeting chat when you're done so the room moves together.
 - **Stuck? Don't suffer.** Drop a message in the lab chat; the in-room helper or the facilitator will unblock you. See [STUCK.md](./STUCK.md) for the top 5 issues and one-line fixes.
 - **Everything is yours.** This repo is yours to fork, edit, break and rebuild. Nothing here is the customer's production data.
