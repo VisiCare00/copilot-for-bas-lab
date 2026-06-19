@@ -35,6 +35,9 @@ Open these files in github.dev (left-side file tree) and look at each one:
 2. Add a new section using `## ` and the persona template. Pick one of the personas from your real org if you can.
 3. Save.
 
+:smile
+
+
 ## Step 3 · Notice what you've gained (2 min)
 
 - Your spec is **versioned** — every save is tracked.
@@ -44,8 +47,12 @@ Open these files in github.dev (left-side file tree) and look at each one:
 
 ## Checkpoint ✅
 
+:
+
 - [ ] `spec/01-overview.md` is filled with your own requirement.
 - [ ] `spec/02-personas.md` has at least one new persona you wrote.
 - [ ] React 👍 in the lab chat.
+
+
 
 > ➡️ Next: [03 · Refine with Copilot](../03-refine-with-copilot/) — the part you came for.

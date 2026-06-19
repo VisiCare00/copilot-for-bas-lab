@@ -5,6 +5,7 @@
 
 ## The problem
 
+I am hungry
 Clinicians currently capture patient consent on paper or inside disconnected EHR modules. This creates three pain points:
 
 1. **Consent records are not portable** between facilities — a patient consenting at Hospital A cannot have that consent honoured at Hospital B without a phone call.

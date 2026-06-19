@@ -2,9 +2,13 @@
 
 > Three personas drive the Patient Consent Service. Each story in [user-stories](./03-user-stories/) should map back to one of them.
 
+## 👩‍⚕️ The Chef
+- The guy who is going to cook my food.
+
+
 ## 👩‍⚕️ The Clinician (primary user)
 
-- ED Consultant at Hospital A, 12 years experience.
+- ED Consultant at Hospital A, 12 years experience. 
 - Comfortable with the EHR, frustrated by anything that adds clicks.
 - Sees 30+ patients per shift; consent capture must take **under a minute**.
 - Trusts the system if the audit trail is visible.
